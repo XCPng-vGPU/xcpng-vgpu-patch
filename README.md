@@ -11,7 +11,7 @@ This repository contains a script to apply a patch on XCP-ng hypervisor versions
 To quickly download and run the script from this repository, use the following in the shell on the XCP-ng host:
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/XCPng-vGPU/xcpng-vgpu-patch/patch.sh)
+bash <(curl -s https://raw.githubusercontent.com/XCPng-vGPU/xcpng-vgpu-patch/main/patch.sh)
 ```
 
 ## Notes
